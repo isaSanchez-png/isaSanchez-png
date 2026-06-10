@@ -15,23 +15,13 @@ I am a **Multimedia Engineer** passionate about building clean native iOS applic
 ## My Tech Stack & Skills
 
 ### 📱 iOS & Game Development
-<img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=F05138" />
-<img src="https://img.shields.io/badge/Xcode-107EA2?style=for-the-badge&logo=xcode&logoColor=white" />
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=F05138" style="pointer-events: none;" /> <img src="https://img.shields.io/badge/Xcode-107EA2?style=for-the-badge&logo=xcode&logoColor=white" style="pointer-events: none;" /> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" style="pointer-events: none;" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" style="pointer-events: none;" />
 
 ### 🌐 Web Technologies
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="pointer-events: none;" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" style="pointer-events: none;" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="pointer-events: none;" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="pointer-events: none;" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="pointer-events: none;" />
 
 ### 🎨 Design & Immersive XR
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20CC-DA1F26?style=for-the-badge&logo=adobe&logoColor=white" />
-<img src="https://img.shields.io/badge/VR%20%2F%20AR-FF69B4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="pointer-events: none;" /> <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" style="pointer-events: none;" /> <img src="https://img.shields.io/badge/Adobe%20CC-DA1F26?style=for-the-badge&logo=adobe&logoColor=white" style="pointer-events: none;" /> <img src="https://img.shields.io/badge/VR%20%2F%20AR-FF69B4?style=for-the-badge" style="pointer-events: none;" />
 
 ---
 
