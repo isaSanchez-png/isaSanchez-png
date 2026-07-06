@@ -25,19 +25,10 @@ I am a **Multimedia Engineer** passionate about building clean native iOS applic
 
 ---
 
-### 🎨 Design & Immersive XR
-![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![](https://img.shields.io/badge/Adobe%20CC-DA1F26?style=for-the-badge&logo=adobe&logoColor=white)
-![](https://img.shields.io/badge/VR%20%2F%20AR-FF69B4?style=for-the-badge)
-
----
-
 ## 🎓 Education & Certifications
 
 - **Multimedia Engineering** – Universidad Autónoma de Occidente (2020 - 2026)
 - **Scrum Fundamentals Certified** – SCRUMstudy (2025)
-- **Escuela de Facilitadores Sociales** – Universidad Autónoma de Occidente (2024)
 
 ---
 
